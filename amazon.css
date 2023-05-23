@@ -1,0 +1,173 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+    
+}
+
+.c{
+	float:left;
+}
+.r{
+	width:100%;
+}
+
+.row1{
+    background-color: #0F1111;
+    height: 60px;
+}
+.col1 > img{
+    height:40px;
+    margin: 10px 20px;
+}
+.col5{
+    width: 20px;
+}
+.col3{
+    height:50px;
+    width:1150;
+    margin-left:15px;
+
+}
+.com{
+	height:40px;
+	margin:10px 0px 10px 0px;
+}
+
+.selecter{
+	width:100px;
+}
+.input{
+	width:1000px;
+}
+.img{
+	width:38px;
+	margin:11px 15px 10px 0px;
+}
+
+.col4 {
+    margin: 30px 0px 10px 15px;
+}
+
+.col7{
+    width: 60px;
+}
+
+
+.row2{
+    background-color: #232F3E;
+    height: 39px;
+}
+
+.col11 >img{
+    height: 30px;
+    margin-left:15px ;   
+}
+.col2{
+    font-size: 14px;
+    color: white;
+    margin:12px 15px 12px 15px ;   
+}
+.r1c{
+	margin-top:15px;
+}
+
+
+.col5 > img{
+    width: 28px;
+    margin-top: 28px;
+}
+
+.row3 > img{
+    width: 1500px;
+    margin-left:160px;
+    margin-top: 15px;
+}
+.row32 {
+    height: 370px;
+    width: 84%;
+    margin-left:150px;
+}
+
+.cl1 > img{
+    height: 350px;
+    width: 360px;
+    margin: 15px 10px;   
+}
+
+.row4 > img{
+    height: 280px;
+    width: 1496px;
+    margin:20px 160px 90px;
+    
+}
+
+.row6{
+    background-color: #354969;
+    height: 50px;
+}
+.row6 >p{
+	font-size:16px;
+	color:white;
+	text-align:center;
+	margin-top:15px;
+}
+
+.row7{
+	color:white;
+    background-color: #232F3E;
+    height: 450px;
+    
+}
+
+.row8{
+	margin-top:50px;
+	margin-left:60px;
+}
+
+div > ul > li{
+	font-size:14px;
+	margin:15px 10px 15px 0px;
+}
+
+
+.row9{
+    background-color: #232F3E;
+    border-top: 1px solid gray;
+    height: 110px;
+}
+
+.row9_img{
+	width:110px;
+	margin:20px 90px 0px 600px;
+}
+
+.row9_1{
+	font-size:14px;
+	border:solid 1px gray;
+	color:white;
+	margin:30px 5px;
+	padding:10px 25px;
+}
+.row10{
+    background-color: #0F1111;
+    height: 600px;
+}
+.row10_{
+	margin-top:10px;
+	margin-left:15px;
+}
+
+.col10{
+	padding:15px;
+	color:white;
+	font-size:14px;
+	margin:5px 0px;
+}
+.c10{
+	font-size:14px;
+	color:white;
+
+}
+
+
+
